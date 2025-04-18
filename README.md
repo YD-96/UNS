@@ -1,5 +1,5 @@
 # UNS
-This is the official repo for the implementation of **UNS: Uncertainty Neural Surfaces for Space Target 3D Reconstruction Under Constrained Views**.
+This is the official repo for the implementation of [UNS: Uncertainty Neural Surfaces for Space Target Reconstruction Under Restricted Views](https://ieeexplore.ieee.org/document/10929007).
 
 ## Usage
 
